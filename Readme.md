@@ -1,7 +1,4 @@
-# Github
+# Git e Github
 
-Este é um arquivo de teste
+Estudando principais comandos do Git/Github
 
-Arquivo editado
-
-Agora vai
